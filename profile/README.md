@@ -3,6 +3,16 @@
 **openER**는 다양한 조건을 기반으로 와인을 탐색하고 비교할 수 있는 웹 서비스입니다.  
 사용자가 맛 프로필, 가격, 국가, 품종 등의 필터를 통해 원하는 와인을 쉽게 찾고, 여러 와인을 한눈에 비교할 수 있도록 설계된 프로젝트입니다.
 
+https://open-er-lake.vercel.app/
+
+<img width=50% alt="Screenshot 2026-02-09 at 2 28 00 PM" src="https://github.com/user-attachments/assets/1e1af72a-050c-4c35-8656-2d42a5cf1a92" />
+<img width=50% alt="Screenshot 2026-02-09 at 2 28 19 PM" src="https://github.com/user-attachments/assets/c851311e-dd66-42fc-bad6-658faee24309" />
+<img width=50% alt="Screenshot 2026-02-09 at 2 29 12 PM" src="https://github.com/user-attachments/assets/aafbcc74-0835-486b-a2fa-87a0ef279294" />
+<img width=50% alt="Screenshot 2026-02-09 at 2 29 26 PM" src="https://github.com/user-attachments/assets/7bfbfe68-d66b-4587-897a-a826fa60b3ff" />
+<img width=50% alt="Screenshot 2026-02-09 at 2 29 42 PM" src="https://github.com/user-attachments/assets/5d079525-abec-4947-a9dd-92411c411dda" />
+<img width=50% alt="Screenshot 2026-02-09 at 2 29 49 PM" src="https://github.com/user-attachments/assets/80173491-93f5-44ed-9ad9-b08adf6b3142" />
+<img width=50% alt="Screenshot 2026-02-09 at 2 29 58 PM" src="https://github.com/user-attachments/assets/cf26bf1d-0355-47f0-8f5f-322af43de1f2" />
+<img width=50% alt="Screenshot 2026-02-09 at 2 30 09 PM" src="https://github.com/user-attachments/assets/36397b9a-bd5a-454f-ab8e-68fec8f54f67" />
 
 
 ## 🌐 서비스 개요
